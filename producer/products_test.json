@@ -1,0 +1,33 @@
+[
+  {
+    "name": "aged-thunder",
+    "description": "black-dawn",
+    "images": [
+      "https://via.placeholder.com/100/2225011",
+      "https://via.placeholder.com/100/378823"
+    ],
+    "price": "501",
+    "user_id": 19
+  },
+  {
+    "name": "cold-butterfly",
+    "description": "nameless-wind",
+    "images": [
+      "https://via.placeholder.com/100/1300225",
+      "https://via.placeholder.com/100/1607819"
+    ],
+    "price": "112",
+    "user_id": 94
+  },
+  {
+    "name": "autumn-sound",
+    "description": "billowing-shadow",
+    "images": [
+      "https://via.placeholder.com/100/2636711",
+      "https://via.placeholder.com/100/520910"
+    ],
+    "price": "223",
+    "user_id": 65
+  }
+]
+  

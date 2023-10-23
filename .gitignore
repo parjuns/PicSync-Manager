@@ -1,0 +1,4 @@
+# Ignore exe
+**/*.exe
+# Ignore images
+consumer/images/
